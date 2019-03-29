@@ -34,7 +34,7 @@
 
     <groupId>com.amazon.opendistroforelasticsearch</groupId>
     <artifactId>opendistro_security_parent</artifactId>
-    <version>0.7.0.1</version>
+    <version>0.7.0.1-rbkmoney</version>
     <packaging>pom</packaging>
 
     <name>Elasticsearch Security Parent</name>
